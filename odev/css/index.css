@@ -1,0 +1,52 @@
+body {
+    background-color:rgb(248, 242, 231);
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+
+    
+    
+}
+h2 {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+h3 {
+    font-size: 30px;
+    color:sienna;
+    font-family: 'Playfair Display', serif;
+
+}
+
+h6 {
+    color: royalblue;
+    font-family: 'Mulish', sans-serif;
+    font-size: 30px;
+
+}
+p {
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h4 {
+    font-size: 23px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+li {
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+ol {
+    font-family: 'Mulish', sans-serif;
+    font-size: 40px;
+    
+    
+}
+
